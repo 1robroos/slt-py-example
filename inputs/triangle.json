@@ -1,0 +1,22 @@
+{
+  "triangle_list": [
+    {
+      "lengthA": 7,
+      "lengthB": 3,
+      "lengthC": 3,
+      "height" : 3
+    },
+    {
+      "lengthA": 1,
+      "lengthB": 2,
+      "lengthC": 3,
+      "height" : 3
+    },
+    {
+      "lengthA": 10,
+      "lengthB": 10,
+      "lengthC": 10,
+      "height" : 3
+    }
+  ]
+}

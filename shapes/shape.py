@@ -5,6 +5,7 @@ Author: Nick Russo
 File: shape.py
 Purpose: Definition of the abstract base class Shape
 to demonstrate inheritance, polymorphism, and decorators.
+
 """
 from abc import ABC, abstractmethod
 
